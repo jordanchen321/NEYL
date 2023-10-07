@@ -1,12 +1,14 @@
 h1{
 fontsize: 300px;
 text-align: center;
+justify-content: center;
 color: white; 
 }
 
 p{
 fontsize: 150px;
 text-align: center;
+justify-content: center;
 color: white;
 }
 
