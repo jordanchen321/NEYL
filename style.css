@@ -1,11 +1,11 @@
 .maintenance h1{
 	fontsize: 60px;
-	textalign: center;
+	text-align: center;
 }
 
 .maintenance p{
 	fontsize: 30px;
-	textalign: center;
+	text-align: center;
 }
 
 
