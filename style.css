@@ -1,11 +1,13 @@
 .maintenance h1{
-	fontsize: 60px;
+	fontsize: 300px;
 	text-align: center;
+	color: white; 
 }
 
 .maintenance p{
-	fontsize: 30px;
+	fontsize: 150px;
 	text-align: center;
+	color: white: 
 }
 
 
